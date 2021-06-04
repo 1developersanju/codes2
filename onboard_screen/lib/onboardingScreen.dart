@@ -4,8 +4,6 @@ import 'package:onboarding/onboarding.dart';
 import 'package:velocity_x/velocity_x.dart';
 
 class OnBoardPage extends StatefulWidget {
-  //OnboardPage({key key}):super(key: key);
-//OnboardingPage({key: Key}): super(key: key);
   @override
   _OnBoardPageState createState() => _OnBoardPageState();
 }
